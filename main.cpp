@@ -1,4 +1,4 @@
-#include "circle.h"
+#include "main_functions.h"
 
 int main () {
 

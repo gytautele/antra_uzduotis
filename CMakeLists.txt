@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "../build")
 
-add_executable(penkta_su_headeriais main.cpp circle.h circle.cpp)
+add_executable(build main.cpp main_functions.h main_functions.cpp)
